@@ -9,14 +9,20 @@ class NegociacaoController {
     }
 
     adicionar(event) {
-        event.preventDefault();
+        event.preventDefault(); 
         
-        // Função com erro:
-        // Necessário criar um objeto Date a partir da string da data retornada pelo inputData
+        let data = new Date(...
+            this._inputData.value
+            .split('-')
+            .map((item, indice) =>  item - indice % 2)
+        );
+
         let negociacao = new Negociacao(
-            this._inputData.value,
+            data,
             this._inputQuantidade.value,
             this._inputValor.value
         );
+
+        console.log(negociacao);
     }
 }
