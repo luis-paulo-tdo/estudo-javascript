@@ -1,0 +1,10 @@
+JavaScript - Explorando a Linguagem
+
+1. Introdução à Linguagem
+
+1.1. Introdução
+	- JavaScript é a linguagem mais usada no mundo;
+	- Serão usados o Visual Studio Code e o Nodejs;
+	- O Node será usado apenas como interpretador;
+	- A linguagem não está associada 100% ao navegador;
+	- Por isso, será usada a interface de linha de comando.
