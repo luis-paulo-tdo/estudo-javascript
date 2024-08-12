@@ -22,3 +22,17 @@ Visão geral da linguagem, instalação do ambiente e primeiro programa em JavaS
 - A escrita de código ocorrerá usando o editor do Visual Studio Code.
 - Uma vez escrito, o código JavaScript será interpretado pelo Node.
 - Pode ser utilizada a ferramenta de terminal do Visual Studio Code.
+
+### 1.3. Guardando Valores na Memória do Computador
+- O programa agora cria uma variável `const` atribuíndo um número á ela.
+- Este valor fica armazenado na memória do computador e pode ser alterado.
+- Ao se declarar uma variável, é necessário atribuir um nome para ela.
+- Esta variável deve ser referenciada caso seja necessário utilizá-la.
+- Em uma função de imprimir, o nome da variável não deve ter aspas.
+- Em cima de uma variável numérica, é possível fazer operações matemáticas.
+- Os valores são pegos nos espaços de memórias alocados e são processados.
+- O resultado destes processamentos também podem ser armazenados em memória.
+- Dentro do código, podem haver declarações de variáveis e atribuição de valores.
+- Da mesma forma, podem ser feitas operações de processamento e de saída de dados.
+- Também podem ser feitas operações aritméticas, como soma, subtração, divisão, etc.
+- Todos estes elementos podem ser utilizados para criar programas cada vez mais complexos.
